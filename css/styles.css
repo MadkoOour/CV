@@ -107,6 +107,12 @@ p{
     margin: auto;
 }
 
+.knowledge{
+    width: 30%;
+    margin: 50px auto;
+
+}
+
 .bottom-container{
     padding: 50px 0 25px;
     background-color: #66BFBF;
